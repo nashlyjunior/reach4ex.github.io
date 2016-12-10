@@ -1,0 +1,1050 @@
+{
+  "settings": {
+    "name": "Mr motshabi",
+    "currentPage": "reach4ex.com.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.8.7",
+    "uniqCompNum": 62,
+    "versionPublish": "3.10.1",
+    "favicon": "@PROJECT_PATH@/assets/images/13327424-1751307425125005-592653944276702749-n-128x129-53.jpg",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "reach4ex.com.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#27aae0"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#1e9fd4"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-m",
+          "_params": {
+            "bgColor": "#27aae0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PERSONAL DEVELOPMENT AND GROWTH</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reach4ex.com.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutreach4ex.com.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"book1reach4ex.com.html\">Reaching for excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"botsheloreach4ex.com.html\">megopolo ya botshelo jwa phenyo</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"contactsreach4ex.com.html\" target=\"_blank\">Contacts</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#1abc9c",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/motivation-for-blogging-2000x1084-37.png",
+                "contentAlign": "right",
+                "overlay": true,
+                "showTitle": true,
+                "title": "MOTIVATION<br>",
+                "showText": true,
+                "text": "Execellent is not to be found in each and everyone of us,we just need to believe in ourselves and reach for potential that lies on us. however, our thought patterns which is influenced by the world around us, limit the actions that we take to become the best people we are.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/6358882974482969571024448946-inspiration-2000x1125-20.png",
+                "contentAlign": "left",
+                "overlay": true,
+                "showTitle": true,
+                "title": "INSPIRATION",
+                "showText": true,
+                "text": "You are a champion so do not wait for everything that is right to be wrong. Move closer to your dream, move from where you are to where you want to be. Champions are positive. They know that, ‘Things turn out best for the people who make the best of the way things turn out’&nbsp;<br>",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/wisdom-6-2000x1125-35.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "showTitle": true,
+                "title": "WISDOM",
+                "showText": true,
+                "text": "John 10:10, “I have come so that you might have life and enjoy life, and have it to the full until it overflows.” Some people are not experiencing this joy that the bible talks about and want God to bear the blame. You see, if we are not happy, it’s not God’s fault. You need to change. Change and change will follow you. ",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-o",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "_anchor": "content1-p",
+          "text": "<p>You may have an opportunity to clarify or defend an inability to get things done. You can say, “I would love to do that, but I’m a procrastinator.” You are simply sabotaging yourself. Make your dreams come true by starting now. Use your time wisely. Those who make the best use of their time have none to share. If you are sleeping and thinking that when you wake up things will be increased, forget it. Personal development and growth bring of phenomenom change into ones life. This website shall provide two books that shall bring inlightment into your life and your life will never be the same again.</p>"
+        },
+        {
+          "items": [
+            {
+              "text": "REACHING FOR EXCELLENCE",
+              "authorName": "",
+              "authorBio": ""
+            },
+            {
+              "text": "MEGOPOLO YA BOTSHELO JWA PHENYO",
+              "authorName": ".",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>UP COMMING BOOK</p><p>BLOOM AND BLOSSOM</p><p>comming soon</p>",
+              "authorName": "",
+              "authorBio": ""
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__text": {
+              "color": "#000000"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "REACHING FOR EXCELLENCE",
+              "authorName": "",
+              "authorBio": ""
+            },
+            {
+              "text": "MEGOPOLO YA BOTSHELO JWA PHENYO",
+              "authorName": ".",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>UP COMMING BOOK</p><p>BLOOM AND BLOSSOM</p><p>comming soon</p>",
+              "authorName": "",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials1-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#1abc9c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "THE BOOKS"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1m",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hero-inspirational-overview-2000x1000-12.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "<br><br><span style=\"color: inherit; font-family: inherit;\">THESE BOOKS SHALL CARRY YOU ON A JOURNEY OF LIFE THAT CHANGE YOUR LIFE</span><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-s",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/inspiration-rev-2000x517-85.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EXPECTED RESULTS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "These books are centred on the human condition, so elegantly written, so understanding of our embedded concerns and very useful for our personal lives. In this book I explore the concepts, main beliefs, principles, philosophies and doctrine of personal development and morality, loaded with sensible suggestions for application. It is my unsurpassed belief that<div>you will have one happy adventure as you peruse all the way through this manuscript. The purpose of this book is to im prove personal effectiveness to breed such an overwhelming positive reaction, as it educates with influence and assurance. This book will assist you to explore yourself as an individual and your impact on others. It is my sincere desire that the outlines herein are to be understood as given for enlightenment and not for the sake of an argument</div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "contactsreach4ex.com.html": {
+      "settings": {
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#27aae0"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#1e9fd4"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-y",
+          "_params": {
+            "bgColor": "#27aae0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PERSONAL DEVELOPMENT AND GROWTH</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reach4ex.com.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutreach4ex.com.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"book1reach4ex.com.html\">Reaching for excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"botsheloreach4ex.com.html\">megopolo ya botshelo jwa phenyo</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"contactsreach4ex.com.html\" target=\"_blank\">Contacts</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "title": "HOW TO CONTACT US",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "PERSONAL DEVELOPMENT AND GROWTH"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10",
+          "text": "<p>For more information you can contact us on Facebook @ Dimpo Motshabi</p><p>send us a email at reaching4ex@yahoo.com</p><p>also watch our motivational videos on our youtube channel that is going to be available very soon</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-11",
+          "text": "All rights reserved.  No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior permission of the publisher.<div><br></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORM",
+          "form": {
+            "action": "reaching4ex@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-14",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "P.O Box 360 Maunatlala Botswana",
+              "placeId": "ChIJq8JjWbcWtx4RpMCv9tFtte4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>P.O.Box 360<br> Maunatlala Botswana<br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp; reaching4ex@yahoo.com <br>\nPhone:&nbsp;+267- 77 45 53 58<br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "book1reach4ex.com.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#27aae0"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#1e9fd4"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1a",
+          "_params": {
+            "bgColor": "#27aae0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PERSONAL DEVELOPMENT AND GROWTH</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reach4ex.com.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutreach4ex.com.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"book1reach4ex.com.html\">Reaching for excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"botsheloreach4ex.com.html\">megopolo ya botshelo jwa phenyo</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"contactsreach4ex.com.html\" target=\"_blank\">Contacts</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#27aae0",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header3-1d",
+          "title": "REACHING FOR EXCELLENCE",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#a38f84"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "header3-1e",
+          "title": "FOOD FOR THOUGHT1",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "DETERMINATION, PERSEVERANCE AND PASSION <br><br><br>Determination, perseverance and passion are the essential qualities of a successful individual. I consider myself fortunate as I have had time to learn about people who have conquered Mount Kilimanjaro and believe me, it is exciting and inspirational. Lorna, a friend of mine from Kenya, once told me that throughout Tanzania you will see billboards advertising Kilimanjaro. The mountain is worth advertising. The Uhuru Peak is the highest point on the African continent and it is the highest freestanding mountain in the entire world at 5895m! Glory be to the Lord God of Hosts for these can only be the works of God!. Wow, isn’t it amazing? It is even higher than Mount Everest’s base camp. According to one of the reports I’ve read, even though 25, 000 people attempt to reach the Uhuru point every year, it is estimated that only between 2030% reach their goal. This is simply because the Uhuru peak is not for the weak-hearted and feeble knees. <br>I compare this mountain peak to one’s goal(s). Authentic goals are not for the weak and achievers are not fragile-minded and weak-hearted. They are strong people.  They lay down goals and turn out to be sharp minded with their eyes glued to their goals. In life many if not all set themselves goals but only a few achieve.  <br>Great achievers are like lions. They have the heart of a lion not a chicken. Look how small a lion is, but whenever a lion sees an elephant, buffalo, giraffe it sees food. It doesn’t see a huge, house sized animal, no! With some people it is totally a different story. They always see horrendous and unbearable problems. This is probably due to the fact that some people are not willing to make their lives worth living. I urge you dear reader, do not just see a problem, but a way out. Many of us are existing and not living – we have allowed ourselves to waste away. Stand up and be productive because success does not distinguish people on the basis of their colour, hair nor height. You can make it, it is never too soon nor too late, the best time is right now. Unleash your inner courage. Give yourself permission to be courageous and avoid giving others &nbsp;permission to make you feel timid. Remember, the bigger the problem, the bigger the achievement. Be patient with the build up process, sometimes you have to go through the worst before you get the best.<br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#7c706b"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "17px",
+              "color": "#777777"
+            }
+          },
+          "_anchor": "header3-1f",
+          "title": "FOOD FOR THOUGHT 2",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "PROCRASTINATE AND MISS YOUR TRAIN<br><br>The Someday:<br><br> “Someday, I will think of starting a project that will change my future”.<br><br> “Someday, I will be happy”. “Someday, I will change my attitude”.<br><br> “Someday, I will work hard”<br><br>The future belongs to those who prepare for it today as empowering your today is empowering your tomorrow.<br><br><br>&nbsp;Think of nothing existing outside this present moment. I have had the opportunity to read a self help psychology book and it referenced the idea of “Living in the now”. According to the “Power of now”, the past and the future are a figment of your imagination and they only exist according to the degree to which you focus your attention on them right now. We create the past and the future by focusing our attention on them right now. We create the past and the future by imagining them in the present but the reality is that we do not even exist outside the now. <br><br>I have had the privilege of knowing some people with winning mentalities who are unbelievably self-motivated. They have initiative and right away start working on what they have decided on and never stop until they are done. They always finish what they start. Always! They start and keep working until the task is completed. They start, they work, they finish. Over and over again they give up sleep to meet their preferred outcomes. Don’t you wish you were one of those? Perhaps, you are one person who lives with a severe case of “Someday”? You lack confidence and drive to pursue things in your life that could and should be done now, that is why you believe in someday. Are you always saying that you would wait until the time is right and come up with a number of excuses not to do things? Your problem is fear, not the projects themselves. What if you die? For you ‘someday’ will never come. Don’t let that happen to you.<br><br>He who is not prepared today will be less so tomorrow that is why you must never ever put off till tomorrow what you can do today. For you to prepare well for tomorrow you have to accomplish today’s work splendidly. You ought to make the most of time profitably, if not, you will by no means meet your obligation. Stop procrastinating for you do not know what tomorrow holds. What if tomorrow never comes? There is no guarantee that it will. What if tomorrow comes but totally different from what you had anticipated? What if tomorrow is busy and leaving you hoping that there will be yet another better tomorrow? Now begin to count all these tomorrows and you will realize that they amount to days if not years. Really they might even amount to a life time. <br><br>This would simply mean that you did absolutely nothing during your entire time of existence. One day, you will wake up and realize that life has passed you by, and that someday is gone. That day your children will be grown-up, your friends no longer around, and all the things you wanted to do no longer possible. If there is anything you wish for, do not put it off. Do it now! Develop a tendency of doing all things that you keep putting off. Why should you put off to tomorrow what you can do today? <br>What would you say are your setbacks? Do you have any explanation? Be careful, tomorrow will arrest and hinder you! Now wise up and do what has to be done when it is to be done and stop procrastinating. Execute today what others will do tomorrow and without a doubt, you are going to be poles apart with the rest of the common people. Stick to your plans and account for your time. Have you noticed that you have the same seconds, minutes and hours in a day and same number of days in a year as others? Now why is it that others are miles ahead of you? It is because they control their time, time does not control them. Exploit the little time you have because you will never make up for the time wasted. Did you know that you can never reverse time? You are wasting two minutes and somebody elsewhere is making thousands of pula in those. Procrastination is a stumbling block for many of us and should be dealt with.&nbsp;<br><br>You may have an opportunity to clarify or defend an inability to get things done. You can say, “I would love to do that, but I’m a procrastinator.” You are simply sabotaging yourself. Make your dreams come true by starting now. Use your time wisely. Those who make the best use of their time have none to share. If you are sleeping and thinking that when you wake up things will be increased, forget it. What are you doing today that you did not do yesterday which is increasing your life? Increase your value. You earn P150.00 at work and you are busy complaining. It is because you are worth that amount. You get paid according to your worth. Let me ask you, what if you go into a Chinese restaurant and they tell you their 130ml juice sells at P100.00? Are you going to buy it? No!  It is nonsensical. The same applies to you, why do you want to earn P10 000.00 when you are worth P150.00? Money loves value so increase your value.<br><br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#7c706b"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "header3-1g",
+          "title": "FOOD FOR THOUGHT 3",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "BEGIN WITH THE END IN MIND<br><br>Whatever you want people to say about you, begin with it in the mind. Whatever you want people to say about you, start working for it. What would you like people to say about you and your life? What kind of man/woman would you like their words to reflect? What kind of a father, mother, friend or leader would you like them to say you were? What kind of words should they use to describe you as a colleague? Do you deserve praise? Are people going to describe you as a blessing in their lives or a curse? <br><br>To begin with the end in mind means to start with a clear understanding of your destination. It means to know where you want to go in order to better understand where you are at the moment so that the steps you take are always in the right direction. To many different circumstances and levels of life, the most fundamental application of ‘begin with the end in mind’ is to begin today with the image or picture of the end of your life. Each part of your life of today, tomorrow, next week or next year can be examined in the context of the whole, in terms of what really matters most to you. Keep that end clear in mind and you can be certain that whatever you do on any particular day does not violate the criteria you have defined as a meaningful way to the vision you have of your life as a whole. <br>How different our lives are when we really know what is deeply important to us, and, keeping that picture in mind, we manage ourselves each day to be and to do what really matters most. You may be very busy but you will also be truly effective only when you begin with the end in mind. If you carefully consider what you want to be said of you from the perspective of a funeral, you will find your definition of success. When you begin with the end in mind, you gain a different perspective. One man asked another on the death of a mutual friend, “How much did he leave?” His friend responded, “He left it all, words fall short to describe him.”<br><br>Engage your mind and bear in mind that all things are created twice. There is a mental (first) and physical (second) creation. Let us take the starting of a business as an example. You create it in every detail before you can start the practical implementation of the business. You try to get a clear picture of the kind of products you will sell or the service you will provide. Think of your suppliers and your customers. All the resources you will need, that office furniture. You plan about that structure with nice lockable doors and windows. You work with ideas. You are still at the mental or first creation. Never ever undermine this first creation because most business failures begin in the first creation with problems such as lack of a business plan.<br><br>You develop all the necessary plans. You are not yet touching the earth to construct the structure. Make sure all the mental plans are perfect or else you are going to make mistakes and you will have to make expensive changes that may skyrocket the initial costs. The extent to which you begin with the end in mind often determines whether or not you are able to create a successful business.  You will then move to the physical or second creation which is the implementation part.<br>When you develop a tendency of creating things in the mind first, before physical creation, you will avoid the possibility of being busy- very busy- without being effective. Throughout all these steps, remember, ‘you may succeed if nobody else believes in you, but you will never succeed if you do not believe in yourself.’ Believe in yourself. Take a step because failure to take the first step is failure to arrive at the desired destiny. Take enough of those small steps and you shall surely arrive.<br>Imagine yourself achieved, Imagination is vital as it helps you visualize the uncreated worlds of potential that lie within you.&nbsp;<br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1h",
+          "title": "To continue, buy the book through Amazon or&nbsp;<br>contact us",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        }
+      ]
+    },
+    "botsheloreach4ex.com.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#27aae0"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#1e9fd4"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1i",
+          "_params": {
+            "bgColor": "#27aae0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PERSONAL DEVELOPMENT AND GROWTH</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reach4ex.com.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutreach4ex.com.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"book1reach4ex.com.html\">Reaching for excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"botsheloreach4ex.com.html\">megopolo ya botshelo jwa phenyo</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"contactsreach4ex.com.html\" target=\"_blank\">Contacts</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H3": {
+              "color": "#7c706b"
+            }
+          },
+          "_anchor": "header3-1j",
+          "title": "MEGOPOLO YA BOTSHELO JWA PHENYO",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "NKGO YA TSABAKELO<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;AKANYA JAAKA MODIMO A AKANYA<br><br><br>Ke dilo tse leitlho le sekang la di bona, le tse tsebe e sekang ya di utlwa, le tse di sekang tsa tsena mo pelong ya motho, e bong dilo tsotlhe tse Modimo o di baakanyeditseng bone ba ba o ratang (1 Bakorinthe 2:9).<br> <br><br>Ga go kgathalasege botshwaro jo o iphitlhelang o le mo go jone jwa diemo ka yone nako e, Modimo o na le go le gontsi mo mabolokelong mo e leng ga gago. Keletso ya Modimo ke go go tsholetsa mo karolong nngwe le nngwe ya botshelo jwa gago. O eletsa go go okeletsa botlhale gore o diragatse ditshwetso tse di molemo e bile di le maleba. O batla go go nonotsha gore o tle o fetole diemo. O eletsa go go segofatsa mo go tsa madi gore o tle o nne tshegofatso mo go ba bangwe. Se eme felo go le gongwe fela gonne botshelo bo go tsholetse go le go ntsi. Malatsi a gago a katlego a fela fa pele ga gago. Simolola gompieno go akanya jaaka Modimo a akanya. Baebele ya re, “tsela ya baitshephi e gola ka kgalalelo morago ga kgalalelo.” Akanya kgolo… akanya katlego…akanya phunyeletso! Simolola go solofela tse di sa solofelweng mme o lebe botshelo ka leitlho la tumelo. Fa o dira jalo, Modimo o tla iponagatsa mme a simolole go dira dilo go ya ka fa tshiamelong ya gago.<br> Tsaya kgato go ya kwa phunyeletsong ya gago gompieno.<br><br>Thapelo ya gompieno: <br><br>Rara yo o kwa magodimong, ke Go lebogela letsatsi la gompieno. Ke lebogela gore O na le ditshono tse disha tse o batlang ke di itemogela tsa phenyo le kgolo mo karolong nngwe le nngwe ya botshelo jwa me. Nthute gore ke akanye jaaka Wena, mme ke ipone jaaka ga o mpona gore ke tle ke itemogele se o se ntsholetseng gompieno.<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TLHABOLOLA PONELOPELE YA PHENYO<br><br><br>Bonang ke tla dira sengwe se sesha. Se tlaa runya jaanong jaana; a ga lo ketla lo se itse? (Isaia 43:19).<br> <br><br>A mme o na le tebelopele ya phenyo mabapi le botshelo jwa gago? A o bona phenyo mo kgatong nngwe le nngwe ya gago? A o tshela botshelo jwa gago jwa letsatsi le letsatsi o tletse ka tumelo le tsholofelo? Padi ya gompieno ga e re Modimo o tsile go dira sengwe se sesha letsatsi lengwe, Modimo ga a ise a re gongwe beke e e latelang, kgwedi e e latelang kgotsa ngwaga o o latelang. Modimo a re, “Ke dira sengwe se sesha mo botshelong jwa gago gone jaana!” a ga o lemoge seo? Modimo o batla go dira sengwe se sesha mo botshelong jwa gago gompieno. Tlogela megopolo ya gago ya bogologolo mme o ngaparele selo se sesha se Modimo a se go tsholetseng gompieno. O itlhobogetseng? A dilo tsa bogologolo ke tsone di go tseetseng kagiso? Heela tlhokomologa! Modimo a re re seka ra akanya dilo tsa bogologolo. A re o tla dira ditsela mo nageng le dinoka mo sekakeng, go tla a nosa batho ba gagwe. Modimo o bua jaana mo go Jeremia 29:11, “gonne ke a e itse megopolo e ke e gopolang ka ga lona, megopolo ya kagiso, e seng ya bosula, go lo naya tsholofelo mo motlheng wa lona wa bofelo.” Mananeo a Gagwe ka ga gago ke a a molemo, go sa kgathalesege tse di go diragaletseng mo nakong e e fetileng. Go sa kgathalesege, mananeo a gagwe a tla tswelela a le molemo mabapi le botshelo jwa gago. Modimo o ka fetola dikgwetlho tsa gago. O ka fetola dikutlobotlhoko tsa gago go di dira boitumelo! Lebala ka tse di fetileng , batla lenaneo la Modimo mme o tlhabolole ponelopele ya botshelo jwa gago!<br><br><br>Thapelo ya gompieno:<br> <br>Morekolodi wa me, wena yo intshenketseng, wa mpitsa ka leina, ke lebogela mananeo a Gago mabapi le botshelo jwa me. O tlhomile ponelopele ya phenyo mo pelong ya me. Ke a kopa jaana gore o ntlhotlheletse gore ke go tlhome kwa pele mo go tsotlhe tse ke di dirang. Tswelela o ntshegofatse gore ke tle ke fetoge tshegofatso mo matshelong a batho ba bangwe gompieno.<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DIRA LENANEO<br><br>Neela Jehofa ditiro tsa gago, mme maikaelelo a gago  a tlaa tlhomama (Diane 16:3)<br> <br><br>Dira ditogamaano tsa botshelo jwa gago mme e nne tse dintle mo matlhong a ga Jehofa e seng a gago, gonne ditsela tsotlhe tsa motho di dintle mo matlhong a gagwe (motho). Tsoga moso le moso ka kitso ya kwa o yang, le gone go itse diphitlhelelo tsa tsela eo- mme o tlamparele maitlamo a gago. Se letlelele dipitlagano le dikgoreletsi go go tlosa mo seporong sa lenaneo la gago. Ipotse, “a mme se ke se dirang se nkisa kwa Modimo a mpatlang teng? A mme se ke se dirang se supa poifo Modimo, gonne batho ba kgaogana le bosula ka go boifa Modimo. A se ke maikaelelo a botshelo jwa me, kgotsa ke tshamekisa nako fela ke pitlagantswe ke dilo tse di sa nkiseng gope?” Diane 4:25 ya re, “A matlho a gago a lebele kwa pele, dintshi tsa matlho a gago di lolamele go lebela kwa pele ga gago fela.” O seka wa leba ka fa mojeng le fa e le ka fa molemeng. O se itetlelele go sirwa ke sepe mme dirisa nako le nonofo tsa gago go dira tse di go isang kwa o go ikgethetseng. O gakologelwe gore mananeo a Modimo a segofaditswe, mme jaaka o tsamaya mo go one, o tla itemogela katlego le kgolo mo go tsotlhe tse o bayang matsogo a gago mo go tsone. Go boifa Modimo go isa botshelong, mme yo o nang nago o tla nna fela a kgotshe; ga a ketla a lekolwa ke bosula.<br><br><br>Thapelo ya gompieno<br> <br>Ntate, ke lebogela lenaneo le o nang le lone ka botshelo jwa me. Nthuse gore ke tswe ka lenaneo le le tla nthusang go fitlhelela keletso ya gago gompieno. Ke lebogela Moya o o Boitshepho o e leng one mogomotsi mme gape o ntaola e bile o nketeletse pele go nkisa kwa nneteng yotlhe. Nthuse ke go obamele mo go tsotlhe tse ke di dirang gompieno.<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BUA SE O SE BATLANG<br><br>Bolelang........ (Isaia 45:21)<br><br><br>Fa e le gore o ikemiseditse go tshela botshelo jwa phenyo o tshwanetse go bua mafoko a tumelo le tsholofelo. O bue ka tumelo gore Modimo a reng ka seemo sa gago. Bafilipi 4:13 e tlhalosa gore o ka dira tsotlhe ka Keresete yo o go nonotshang. Ga go kgathalesege gore go ya ka batho o lebega o sa lekana kgotsa o sena dikitso le dithutego tse di tlhokegang, Keresete o solofeditse go go nonotsha le go go fa phenyo. Mpolelele, ga nako ya dikgwetlho e go wela o a tle o reng ka seemo sa gago? A o tswelela o gatelela gore o mofenyi ka Keresete? Boammaruri ke gore mongwe le mongwe o aparelwa ke boitumelo le boiketlo fa dilo di tsamaya sentle. Mme ka fa o arabang ka teng fa mathata a go aparela go ka go nonotsha, ga go aga kgotsa ga go tlhangtlhamolola. Se o se buang ka nako ya mathata se na le seabe se segolo mo maduong. Se lebelele mabaka a seemo sa gago. Lebelela boammaruri jwa lefoko la Modimo. Bua bogolo le boammaaruri jwa lefoko la gagwe mo godimo ga diemo tsotlhe go fitlhelela se o se buang se diragala. Tsaya tshwetso gompieno ya gore o tsile go kgona- ebile ka bonako.<br>  <br>Thapelo ya gompieno<br> <br>Rara yo o galalelang wa magodimo, gompieno ke tlhoma diteme tsa me mo go wena. Ke ikaelela go bua dikakanyo tsa gago tsa phenyo mo godimo ga botshelo jwa me le jwa ba ba mo tikologong ya me gompieno. Nthuse gore ke ikaege ka lefoko la gago gompieno, mme o tswelele ka go nkgakolola gore o ntsholofeditse gore ke tla dira dilo tsotlhe o le mo letlhakoreng la me.<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ITSHESELE KA DINAKO TSA DITEKO<br><br><br>Ke gone, lo tseyeng dibolao tsotlhe tsa Modimo, gore lo itse go ema mo motlheng wa bosula, le gore, lo sena go dira gotlhe, lo bo lo ntse lo eme (Baefeso 16:3).<br> <br><br>Rotlhe re kopana le dikgwetlho  mme e bile go na le dinako tse di thata mo matshelong a rona. Modimo ga se ene a romelang matsubutsubu a mathata, mme tsone dinako tse di thata tse ke tsone di re tiisang. Ke yone tshono ya gore jaanong o letlelele lefoko la Modimo gore le tshele le bo le dire go utlwala go go fa phenyo. Ga o kake wa tshabela sengwe le sengwe se se thata mo botshelong mme wa solofela gore Modimo a go ntshe mo pitlaganog ka bonako. Modimo o dirisa tsone dikgwetlho go go nonotsha le go godisa toro ya gago. Tswelela o ntse o mo tshephile le mo dinakong tsa diteko. Tsaya tshwetso ya gore o tla tswelela o direla Modimo go sa kgathalesege diemo tse o kopanang le tsone, mme Modimo o tla go tlotla. O lwe ntwa e e molemo ya tumelo. <br>Gakologelwa, Modimo a ka se tlogele sepe se senyega. O a gola. O a tlhabologa. O baakanyediwa tlhatloso maemo. Tswelela o ntse o mo tshephile mme o lwantshe diteko. Mo pakeng e e seng kgakala, ka nako ya Modimo e e maleba, o tla tsholediwa mme o tla tlhatlosediwa kwa legatong le lengwe la phenyo, mme o tla tshela botshelo jwa letlotlo jo a go bo solofeditseng.<br><br><br>Thapelo ya gompieno<br> <br>Rara yo o kwa magodimong, ke go lebogela go ntiisa mo diemong tse di thata. Ke go lebogela go bo o le boitshepho, mme ke tla tshephega mo go wena. Mphe botlhale jwa gago gore ke tseye ditshwetso tse di maleba gompieno, le nonofo ya go ema ke itshesetse go sa kgathalesege diemo tsa botshelo.<br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k",
+          "title": "TO CONTINUE THE BOOK, BUY THE BOOK THROUGH AMAZON OR CONTACT US",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        }
+      ]
+    },
+    "aboutreach4ex.com.html": {
+      "settings": {
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#27aae0"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#1e9fd4"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-u",
+          "_params": {
+            "bgColor": "#27aae0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PERSONAL DEVELOPMENT AND GROWTH</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reach4ex.com.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutreach4ex.com.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"book1reach4ex.com.html\">Reaching for excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"botsheloreach4ex.com.html\">megopolo ya botshelo jwa phenyo</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"contactsreach4ex.com.html\" target=\"_blank\">Contacts</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#eb6b56"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#475577"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ZJCt7y4lAjo",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "About personal development and growth",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>If you want to achieve, you have no option but to look ahead and prepare than to look back and regret. You need to reflect on your current consciousness, which is the result of multiple obstacles and the reality which distracts you and attempt to develop that potential consciousness to achieve the historical and anthropological task of man - to develop and be more fully human. This video shall tell you more</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#e25041"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#475577"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/reaching-for-excellence-1-1400x1986-92.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "REACHING FOR EXCELLENCE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Do you ever think of your life for a moment and everything that will result from it? Have you ever thought of the value that will be added to you as a result of the benefits you will receive, the respect you will earn, the things you will own? However, these things do not fall from the sky, they come at a price. Now, are you really inspired to pay the price? If at all you are, then remove non-essentials from your daily routine. Let that which is essential attract you and get your required concentration. If you want to achieve, you have no option but to look ahead and prepare than to look back and regret. You need to reflect on your current consciousness, which is the result of multiple obstacles and the reality which distracts you and attempt to develop that potential consciousness to achieve the historical and anthropological task of man - to develop and be more fully human. I welcome you to the exciting world of personal development and growth – exciting be<div>cause this manuscript makes it so. This book is centred on the human condition, so elegantly written, so understanding of our embedded concerns and very useful for our personal lives. In this book I explore the concepts, main beliefs, principles, philosophies and doctrine of personal development and morality, loaded with sensible suggestions for application. It is my unsurpassed belief that</div><div>you will have one happy adventure as you peruse all the way through this manuscript. The purpose of this book is to im prove personal effectiveness to breed such an overwhelming positive reaction, as it educates with influence and assurance. This book will assist you to explore yourself as an individual and your impact on others. It is my sincere desire that the outlines herein are to be understood as given for enlightenment and not for the sake of an argument.&nbsp;</div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#e25041"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#475577"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/setswana-1-1400x2132-38.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "MEGOPOLO YA BOTSHELO JWA PHENYO",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "A o tle o tseye nako go ka tlhodumela botshelo jwa gago, go akanya le go sekaseka sengwe le sengwe se se ka ungwang go tswa mo go jone. A o kile wa akanya ka boleng jo bo ka go kgomarelang le meputso e o ka e bonang, tlotla e o ka e akolang le dilo tse o ka nnang natso? Le go ntse jalo, dilo tse ga di kitla di wa fela go tswa marung, di tla ka tlhwatlhwa. Mme janong potso e nna gore a o ikemiseditse go duela tlhwatlhwa eo? Fa o ikemiseditse go atlega, ga o na boikgethelo kwa ntle ga go lebela pele le go ipaakanya mo boemong  jwa go leba kwa morago ka boikotlhao. Sekaseka seemo sa gago sa jaana, se se bakilweng ke diemoemo mme o apare mowa wa phenyo le wa bogaka gore o kgone go fitlhelela lebaka le boleng jwa setho, jo e leng go tlhabologa le go nna motho wa popota. Ke a go amogela mo lefatsheng le le kgatlhisang la kgolo le tlhabologo mo sethong- go kgatlhisa ka gore bukana e e dira gore go nne jalo. Bukana e e itebagantse le seemo sa setho, e kwadilwe ka matsetseleko, e tlhaloganya dikgwetlho tsa rona sentle mme ebile e botlhokwa go ka re thusa. Maikaelelo magolo a yone ke go go hulela kwa maemomg a boitumelo, kagiso le phitlhelelo. Tlhagisega mmadi gore sepe fela se se kwadilweng mo bukaneng e, se amogelwe jaaka thuto e seng go dirisiwa mo mabakeng a kgalo, ngangisano kgotsa kganetso.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#27aae0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/13327424-1751307425125005-592653944276702749-n-1400x1413-63.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "ABOUT THE AUTHER<br><br>Dimpho Motshabi",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><i>auther. speaker. &nbsp;preacher.</i></p><p><br></p><p>Dimpho is a motivational auther, motivational speaker and a preacher of the gospel. He has delievered presentations to student communities of different sizes, churches ,civic groups and employees of companies . More importantly he has inspired people in certain areas of the country to have a positive attitude and achieve their professional and personal goals by highlighting in dealing with adverity. He has served as a social worker for some time now dealing with people of different experiences.</p><p>Dimpho regards himself as a man on a mission after suffering a tough childhood as an orphan. He is spreading his positive attitude message ; never let your background put your back to the ground. Sucess is in your attitude and winning is a harbit so is losing. Dimpho inspires people to give up giving up and keep on keeping on inregardless of the secumstances.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    }
+  }
+}
